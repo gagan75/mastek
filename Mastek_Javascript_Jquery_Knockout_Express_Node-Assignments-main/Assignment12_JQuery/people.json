@@ -1,0 +1,46 @@
+{
+
+   "people": [
+
+       {
+
+           "firstName": "Ashutosh",
+
+           "lastName": "Bamrara"
+
+       },
+
+       {
+
+           "firstName": "gagan",
+
+           "lastName": "choudhary"
+
+       },
+
+       {
+
+           "firstName": "manish",
+
+           "lastName": "lohani"
+
+       },
+
+       {
+
+           "firstName": "umang",
+
+           "lastName": "gupta"
+
+       },
+
+       {
+
+           "firstName": "sunil",
+
+           "lastName": "kale"
+
+       }
+
+   ]
+}
